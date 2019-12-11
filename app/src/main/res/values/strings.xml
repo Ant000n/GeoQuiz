@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">Правда</string>
+    <string name="false_button">Ложь</string>
+    <string name="correct_toast">Правильно!</string>
+    <string name="incorrect_toast">Неправильно!</string>
+    <string name="next_button">Дальше</string>
+    <string name="question_oceans">Тихий океан больше чем
+Атлантический океан?</string>
+    <string name="question_mideast">Суэцкий канал соединяет Красное море
+и Индийский океан?</string>
+    <string name="question_africa">Исток реки Нил находится в Египте?
+</string>
+    <string name="question_americas">Река Амазонка самая длинная река
+в америке?</string>
+    <string name="question_asia">Байкал является старейшим и самым глубоким в мире
+пресноводное озеро?</string>
+</resources>
